@@ -1,0 +1,24 @@
+# Xlwings学习笔记
+
+##  Xlwings能做什么
+
+- 类VBA操作Excel对象
+- PowerQuery的数据清洗方法
+- 画图
+- 学习成本下降
+
+## Install xlwings
+
+- 首先安装Anaconda,添加环境变`:\Users\user\Anaconda3\Scripts`
+- 然后cmd `pip install xlwings`    当出现问题 时，用`conda install xlwings`
+- 然后运行`xlwings addin install`,重新打开Excel
+- ***？运行的目录设置***        
+- where python 查看当前电脑中Python安装了在哪些位置 
+
+
+
+***Q&A***   
+1.JUPYTER启动404    
+  - cmd 以管理员身份启动    
+  - JUPYTER NOTEBOOK    
+  - 
